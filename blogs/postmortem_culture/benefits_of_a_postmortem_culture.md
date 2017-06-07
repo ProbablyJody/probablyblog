@@ -10,7 +10,7 @@
 * What did we learn from this event?
 * How can we prevent this from reoccurring?
 
-There are questions when things go wrong. A postmortem is an attempt to answer those questions [abinante16](abinante16)
+There are questions when things go wrong. A postmortem is an attempt to answer those questions [abinante16](#abinante16)
 
 ## What is a Postmortem?
 Ultimately a postmortem is a document that provides rich information around a significant undesired event. A postmortem’s scope spans the timeline before, during, and after an incident. It includes a summary of the event, the impact to all stakeholders, a timeline of key contributing factors, the steps taken to troubleshoot and resolve the situation, and the actions needed to prevent the incident from happening again [Lun17]. 
@@ -50,7 +50,7 @@ GitLab estimates that 5,000 projects, 5,000 comments, and 700 new user accounts 
 ## Summary
 
 ## Sources
-[#abinante16] 
+###### abinante16 
 * ["Day 1 - Why You Need a Postmortem Process"](https://sysadvent.blogspot.com/2016/12/day-1-why-you-need-postmortem-process.html) Gabe Abinante, blog post, 2016
 ###### All16 
 * John Allspaw, "Etsy’s Debriefing Facilitation Guide for Blameless Postmortems”, blog post, 2016, https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/
