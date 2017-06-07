@@ -10,7 +10,7 @@
 * What did we learn from this event?
 * How can we prevent this from reoccurring?
 
-There are questions when things go wrong. A postmortem is an attempt to answer those questions [#Abinante16]
+There are questions when things go wrong. A postmortem is an attempt to answer those questions (#abinante16)
 
 ## What is a Postmortem?
 Ultimately a postmortem is a document that provides rich information around a significant undesired event. A postmortem’s scope spans the timeline before, during, and after an incident. It includes a summary of the event, the impact to all stakeholders, a timeline of key contributing factors, the steps taken to troubleshoot and resolve the situation, and the actions needed to prevent the incident from happening again [Lun17]. 
